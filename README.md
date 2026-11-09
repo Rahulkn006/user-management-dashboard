@@ -1,5 +1,9 @@
 # User Management Dashboard
 
+## 🌐 Live Demo
+
+[View User Management Dashboard](https://user-management-dashboard-liart-psi.vercel.app)
+
 A responsive User Management Dashboard built with React, TypeScript and Vite. The application allows users to browse, search, filter, sort and manage user information through a clean and responsive interface.
 
 ## Project Overview
